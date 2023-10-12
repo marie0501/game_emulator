@@ -1,0 +1,38 @@
+c:\users\marie\documents\visual studio 2015\Projects\Project\Project\bin\Debug\Project.exe.config
+c:\users\marie\documents\visual studio 2015\Projects\Project\Project\bin\Debug\Project.exe
+c:\users\marie\documents\visual studio 2015\Projects\Project\Project\bin\Debug\Project.pdb
+c:\users\marie\documents\visual studio 2015\Projects\Project\Project\bin\Debug\ChTitle.dll
+c:\users\marie\documents\visual studio 2015\Projects\Project\Project\bin\Debug\ChTwoToTwo.dll
+c:\users\marie\documents\visual studio 2015\Projects\Project\Project\bin\Debug\GameTicTacToe.dll
+c:\users\marie\documents\visual studio 2015\Projects\Project\Project\bin\Debug\Platform.dll
+c:\users\marie\documents\visual studio 2015\Projects\Project\Project\bin\Debug\ChTitle.pdb
+c:\users\marie\documents\visual studio 2015\Projects\Project\Project\bin\Debug\ChTwoToTwo.pdb
+c:\users\marie\documents\visual studio 2015\Projects\Project\Project\bin\Debug\GameTicTacToe.pdb
+c:\users\marie\documents\visual studio 2015\Projects\Project\Project\bin\Debug\Platform.pdb
+c:\users\marie\documents\visual studio 2015\Projects\Project\Project\obj\Debug\Project.csprojResolveAssemblyReference.cache
+c:\users\marie\documents\visual studio 2015\Projects\Project\Project\obj\Debug\Project.LoggingForm.resources
+c:\users\marie\documents\visual studio 2015\Projects\Project\Project\obj\Debug\Project.Properties.Resources.resources
+c:\users\marie\documents\visual studio 2015\Projects\Project\Project\obj\Debug\Project.WelcomeForm.resources
+c:\users\marie\documents\visual studio 2015\Projects\Project\Project\obj\Debug\Project.csproj.GenerateResource.Cache
+c:\users\marie\documents\visual studio 2015\Projects\Project\Project\obj\Debug\Project.exe
+c:\users\marie\documents\visual studio 2015\Projects\Project\Project\obj\Debug\Project.pdb
+C:\Users\Marie\Desktop\Proyecto Marie del Valle Reyes\Project\Project\bin\Debug\Project.exe
+C:\Users\Marie\Desktop\Proyecto Marie del Valle Reyes\Project\Project\obj\Debug\Project.LoggingForm.resources
+C:\Users\Marie\Desktop\Proyecto Marie del Valle Reyes\Project\Project\obj\Debug\Project.Properties.Resources.resources
+C:\Users\Marie\Desktop\Proyecto Marie del Valle Reyes\Project\Project\obj\Debug\Project.WelcomeForm.resources
+C:\Users\Marie\Desktop\Proyecto Marie del Valle Reyes\Project\Project\obj\Debug\Project.csproj.GenerateResource.Cache
+C:\Users\Marie\Desktop\Proyecto Marie del Valle Reyes\Project\Project\obj\Debug\Project.csprojResolveAssemblyReference.cache
+C:\Users\Marie\Desktop\Proyecto Marie del Valle Reyes\Project\Project\bin\Debug\Project.exe.config
+C:\Users\Marie\Desktop\Proyecto Marie del Valle Reyes\Project\Project\obj\Debug\Project.exe
+C:\Users\Marie\Desktop\Proyecto Marie del Valle Reyes\Project\Project\obj\Debug\Project.pdb
+C:\Users\Marie\Desktop\Proyecto Marie del Valle Reyes\Project\Project\bin\Debug\Project.pdb
+C:\Users\Marie\Desktop\Marié del Valle Reyes\Project\Project\bin\Debug\Project.exe.config
+C:\Users\Marie\Desktop\Marié del Valle Reyes\Project\Project\obj\Debug\Project.exe
+C:\Users\Marie\Desktop\Marié del Valle Reyes\Project\Project\obj\Debug\Project.pdb
+C:\Users\Marie\Desktop\Marié del Valle Reyes\Project\Project\obj\Debug\Project.csprojResolveAssemblyReference.cache
+C:\Users\Marie\Desktop\Marié del Valle Reyes\Project\Project\obj\Debug\Project.LoggingForm.resources
+C:\Users\Marie\Desktop\Marié del Valle Reyes\Project\Project\obj\Debug\Project.Properties.Resources.resources
+C:\Users\Marie\Desktop\Marié del Valle Reyes\Project\Project\obj\Debug\Project.WelcomeForm.resources
+C:\Users\Marie\Desktop\Marié del Valle Reyes\Project\Project\obj\Debug\Project.csproj.GenerateResource.Cache
+C:\Users\Marie\Desktop\Marié del Valle Reyes\Project\Project\bin\Debug\Project.exe
+C:\Users\Marie\Desktop\Marié del Valle Reyes\Project\Project\bin\Debug\Project.pdb
